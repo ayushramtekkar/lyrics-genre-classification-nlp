@@ -2,7 +2,7 @@
 
 Can a song's genre be predicted from its lyrics alone? This project builds an NLP pipeline that does exactly that, framed for a music streaming platform's catalog team that receives large volumes of tracks with missing or unreliable genre tags.
 
-**[View the full notebook with all outputs](https://GH_USER.github.io/lyrics-genre-classification-nlp/)**
+**[View the full notebook with all outputs](https://ayushramtekkar.github.io/lyrics-genre-classification-nlp/)**
 
 ## Approach
 
@@ -33,4 +33,4 @@ Python, pandas, NLTK, spaCy, scikit-learn, PyTorch, Hugging Face Transformers, M
 ## Notes
 
 The dataset is not included in this repo; download it from the Hugging Face link above.
-Completed as an individual project for M508 Big Data Analytics, MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
+Completed as part of the MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
